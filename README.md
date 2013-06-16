@@ -4,6 +4,18 @@
 
 ## Usage
 
+HTML
+
+```html
+<div class="tiny-fader--container">
+  <img href="image-one.jpg" alt="Image One" />
+  <img href="image-two.jpg" alt="Image Two" />
+  <img href="image-three.jpg" alt="Image Three" />
+</div>
+```
+
+JavaScript
+
 ```javascript
 ;(function($){
 
