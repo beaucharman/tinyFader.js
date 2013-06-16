@@ -8,9 +8,9 @@ HTML
 
 ```html
 <div class="tiny-fader--container">
-  <img href="image-one.jpg" alt="Image One" />
-  <img href="image-two.jpg" alt="Image Two" />
-  <img href="image-three.jpg" alt="Image Three" />
+  <img class="tiny-fader--img" href="image-one.jpg" alt="Image One" />
+  <img class="tiny-fader--img" href="image-two.jpg" alt="Image Two" />
+  <img class="tiny-fader--img" href="image-three.jpg" alt="Image Three" />
 </div>
 ```
 
