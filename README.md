@@ -20,7 +20,7 @@ JavaScript
 ;(function($){
 
   $('.tiny-fader--container').tinyFader({
-    element: '.tiny-fader--img'
+    element: '.tiny-fader--img',
     speed:   700
   });
 
