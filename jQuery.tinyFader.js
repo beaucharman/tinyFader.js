@@ -1,7 +1,7 @@
 /**
  * tinyFader.js
  * ========================================================================
- * jQuery.tinyFader.js
+ * jquery.tinyFader.js
  * @version 1.0 | June 16th 2013
  * @author  Beau Charman | @beaucharman | http://www.beaucharman.me
  * @link    https://github.com/beaucharman/tinyFader.js

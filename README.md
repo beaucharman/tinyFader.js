@@ -17,7 +17,7 @@ HTML
 JavaScript
 
 ```javascript
-;(function($){
+;(function ($) {
 
   $('.tiny-fader--container').tinyFader({
     element: '.tiny-fader--img',
