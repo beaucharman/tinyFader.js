@@ -2,15 +2,15 @@
  * tinyFader.js
  * ========================================================================
  * jquery.tinyFader.js
- * @version 1.0 | June 16th 2013
- * @author  Beau Charman | @beaucharman | http://www.beaucharman.me
- * @link    https://github.com/beaucharman/tinyFader.js
- * @license MIT license
- * @param {object}
- *   @param {integer} duration
- *   @param {integer} speed
- *   @param {string} element
- * @return {jQuery object}
+ * @version   1.0 | June 16th 2013
+ * @author    Beau Charman | @beaucharman | http://www.beaucharman.me
+ * @link      https://github.com/beaucharman/tinyFader.js
+ * @license   MIT license
+ * @param     {object}
+ *              {integer} duration
+ *              {integer} speed
+ *              {string} element
+ * @return    {jQuery object}
  *
  * Tiny jQuery element fader plugin
  * ======================================================================== */
