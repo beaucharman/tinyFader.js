@@ -2,6 +2,8 @@
 
 > It's a jQuery plugin, it's tiny... and it fades stuff, capiche?
 
+http://jsfiddle.net/beaucharman/LmM3S/
+
 ## Usage
 
 HTML
